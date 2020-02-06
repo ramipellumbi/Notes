@@ -8,7 +8,7 @@ Topics Include
 3. Information Measures
   * Shannon Entropy
   * Differential Entropy
-..* Mutual Information
+  * Mutual Information
 4. Letter Typical Sequences
 5. Reliable Communication over Noisy Channels
 6. Distribution Simulation
