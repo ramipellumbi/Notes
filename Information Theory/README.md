@@ -6,8 +6,8 @@ Topics Include
 1. Background on Probability Theory
 2. f - divergence
 3. Information Measures
-..* Shannon Entropy
-..* Differential Entropy
+  * Shannon Entropy
+  * Differential Entropy
 ..* Mutual Information
 4. Letter Typical Sequences
 5. Reliable Communication over Noisy Channels
