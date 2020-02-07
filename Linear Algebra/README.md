@@ -1,4 +1,4 @@
-# Information Theory for Data Transmission, Security, and Machine Learning
+# Linear Algebra
 A senior level course in linear algebra. Focused on the arguments and abstract concepts instead of mere computation. 
 
 Topics Include

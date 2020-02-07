@@ -1,4 +1,4 @@
-# Information Theory for Data Transmission, Security, and Machine Learning
+# Random Signals in Communication and Signal Processing
 A senior level course introducing models for random signals in discrete and continuous time. Gained experience in markov chains, poisson processes, queuing processes, power spectral densities, and gaussian random processes as well as the response of linear systems to random signals. 
 
 Topics Include
