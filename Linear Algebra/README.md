@@ -1,6 +1,8 @@
 # Linear Algebra
 A senior level course in linear algebra. Focused on the arguments and abstract concepts instead of mere computation. 
 
+For a quick recap view the final review and prelim 2 review files.
+
 Topics Include
 
 1. Fields, Vector Spaces, Subspaces
